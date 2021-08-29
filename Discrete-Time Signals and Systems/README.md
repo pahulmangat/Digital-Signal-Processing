@@ -10,8 +10,8 @@ Generate and plot a discrete sinusoidal signal with the same frequency and time 
 
 # P2Q2
 
-Load the stock value of Google during the period from 8/19/2004 to 1/26/2009 (GOOG.mat) and implement the difference equation.
+Load the stock value of Google during the period from 8/19/2004 to 1/26/2009 (GOOG.mat) and implement the difference equation for the 3 different averaging methods.
 
 # P2Q4
 
-Calculate the results for the three methods using the impulse responses and the conv function. Compare the results to the corresponding results calculated in the previous part.
+Calculate the results for the three methods using the impulse responses and the conv function.
